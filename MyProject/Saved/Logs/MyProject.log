@@ -8117,3 +8117,6 @@ Continue: Skip saving this asset only.
 [2025.10.14-15.55.07:718][531]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
 [2025.10.14-15.55.07:718][531]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
 [2025.10.14-15.55.07:718][531]LogPakFile: Destroying PakPlatformFile
+[2025.10.14-15.55.12:394][531]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.10.14-15.55.12:455][531]LogExit: Exiting.
+[2025.10.14-15.55.12:483][531]Log file closed, 10/14/25 16:55:12

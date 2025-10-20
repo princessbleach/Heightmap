@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Heightmap/MyProject/Content/HeightMap.umap",
+				"C:/Heightmap/MyProject/Content/LM/MF_Dirt.uasset",
+				"C:/Heightmap/MyProject/Content/LM/MF_Grass.uasset",
+				"C:/Heightmap/MyProject/Content/LM/MF_Rock.uasset",
+				"C:/Heightmap/MyProject/Content/LM/MI_Landscape.uasset",
+				"C:/Heightmap/MyProject/Content/LM/MM_Landscape.uasset",
 				"C:/Users/2423029/Documents/GitHub/Heightmap/MyProject/Content/HeightMap.umap",
 				"C:/Users/2423029/Documents/GitHub/Heightmap/MyProject/Content/LM/MI_Landscape.uasset",
 				"C:/Users/2423029/Documents/GitHub/Heightmap/MyProject/Content/HeightMap_sharedassets/Dirt_LayerInfo.uasset",
